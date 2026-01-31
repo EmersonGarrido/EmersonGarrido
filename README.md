@@ -60,13 +60,20 @@ React • Next.js • React Native • Node/Nest • Laravel • Docker • IA &
 ---
 
 ## 🗄️ Databases & ORM
+
+### SQL Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat-square&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
 
+### NoSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+
+### ORM / ODM
 - Prisma
 - TypeORM
 - Eloquent
+- Mongoose
 
 ---
 
