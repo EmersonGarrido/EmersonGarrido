@@ -115,7 +115,7 @@ React • Next.js • React Native • Node/Nest • Laravel • Docker • IA &
 
 **Coding Stats**
 
-> Powered by [Promise Hub](https://github.com/promise-inc)
+> Powered by [Promise.Inc](https://github.com/promise-inc)
 
 ```text
 No data yet — connect your account at Promise Hub to see your stats here.
