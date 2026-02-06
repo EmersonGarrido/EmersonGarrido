@@ -5,7 +5,7 @@
 💼 *Working at **[Promise Inc](https://github.com/promise-inc)***
 
 🚀 **Full Stack & Mobile Developer**  
-React • Next.js • React Native • Node/Nest • Laravel • Docker • IA & Automação
+React • Next.ts • Vite TS • React Native • Node/Nest • AdonisTS • Laravel • Docker • IA & Automação
 
 🌐 **Blog:** [emersongarrido.com.br](https://emersongarrido.com.br)
 
