@@ -112,13 +112,36 @@ React • Next.ts • Vite TS • React Native • Node/Nest • AdonisTS • La
 ---
 
 <!--START_SECTION:promise-hub-->
+# Emerson Garrido
 
-**Coding Stats**
+[![GitHub](https://img.shields.io/badge/-EmersonGarrido-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EmersonGarrido)
 
-> Powered by [Promise.Inc](https://github.com/promise-inc)
+---
+
+**Emerson é diurno 🐤**
+
+📅 **Mais produtivo em Sábado**
+
+### 💬 Linguagens
 
 ```text
-No data yet — connect your account at Promise Hub to see your stats here.
+markdown             █████████░░░░░░░░░░░░░░░░    35%
+typescriptreact      ██████░░░░░░░░░░░░░░░░░░░    25%
+typescript           ███░░░░░░░░░░░░░░░░░░░░░░    13%
+json                 ██░░░░░░░░░░░░░░░░░░░░░░░     9%
+properties           █░░░░░░░░░░░░░░░░░░░░░░░░     3%
+yaml                 █░░░░░░░░░░░░░░░░░░░░░░░░     3%
+javascript           █░░░░░░░░░░░░░░░░░░░░░░░░     3%
+plaintext            █░░░░░░░░░░░░░░░░░░░░░░░░     2%
 ```
 
+🔥 **Mais forte em frontend** (Backend 0% / Frontend 0%)
+
+📦 **85 projetos públicos, 0 privados**
+
+🤖 **2891.0M tokens de IA consumidos**
+
+---
+
+*Gerado automaticamente por [Promise Hub](https://github.com/promise-inc) — atualizado diariamente*
 <!--END_SECTION:promise-hub-->
