@@ -2,8 +2,8 @@ name: Update README with Promise Hub
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Diariamente as 6h UTC
-  workflow_dispatch:       # Permite executar manualmente
+    - cron: '0 6 * * *'  # Diariamente às 6h UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,7 +13,10 @@ jobs:
 
       - name: Fetch README from Promise Hub
         run: |
-          curl -sf "${{ secrets.PROMISE_HUB_README_URL }}" -o new_readme_content.md
+          curl -sf -X POST "https://api.promise.codes/api/readme/raw" \
+            -H "Content-Type: application/json" \
+            -d '{"userId":"${{ secrets.PROMISE_HUB_README_USER_ID }}","token":"${{ secrets.PROMISE_HUB_README_TOKEN }}"}' \
+            -o new_readme_content.md
 
           if [ ! -s new_readme_content.md ]; then
             echo "Failed to fetch README content or empty response"
@@ -22,9 +25,7 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace content between markers
           if grep -q "START_SECTION:promise-hub" README.md; then
-            # Use awk to replace content between markers
             awk '
               /<!--START_SECTION:promise-hub-->/ { print; found=1; next }
               /<!--END_SECTION:promise-hub-->/ {
@@ -35,10 +36,8 @@ jobs:
             ' README.md > README_updated.md
             mv README_updated.md README.md
           else
-            # No markers found - replace entire README
             mv new_readme_content.md README.md
           fi
-
           rm -f new_readme_content.md
 
       - name: Commit and push
