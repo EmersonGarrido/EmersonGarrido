@@ -139,7 +139,7 @@ dotenv               █░░░░░░░░░░░░░░░░░░�
 
 📦 **85 projetos públicos, 0 privados**
 
-🤖 **2981.4M tokens de IA consumidos**
+🤖 **2981.6M tokens de IA consumidos**
 
 ---
 
