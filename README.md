@@ -118,7 +118,7 @@ React • Next.ts • Vite TS • React Native • Node/Nest • AdonisTS • La
 
 ---
 
-**Emerson é diurno 🐤**
+**Emerson é noturno 🦉**
 
 📅 **Mais produtivo em Segunda-Feira**
 
@@ -139,7 +139,7 @@ dotenv               █░░░░░░░░░░░░░░░░░░�
 
 📦 **85 projetos públicos, 0 privados**
 
-🤖 **2981.6M tokens de IA consumidos**
+🤖 **2983.0M tokens de IA consumidos**
 
 ---
 
