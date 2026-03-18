@@ -127,19 +127,19 @@ React • Next.ts • Vite TS • React Native • Node/Nest • AdonisTS • La
 ```text
 typescriptreact      █████████████░░░░░░░░░░░░    53%
 typescript           █████░░░░░░░░░░░░░░░░░░░░    20%
-json                 ███░░░░░░░░░░░░░░░░░░░░░░    10%
+json                 ███░░░░░░░░░░░░░░░░░░░░░░    11%
 javascript           █░░░░░░░░░░░░░░░░░░░░░░░░     4%
-properties           █░░░░░░░░░░░░░░░░░░░░░░░░     2%
 python               █░░░░░░░░░░░░░░░░░░░░░░░░     2%
 yaml                 █░░░░░░░░░░░░░░░░░░░░░░░░     2%
 dotenv               █░░░░░░░░░░░░░░░░░░░░░░░░     2%
+properties           ░░░░░░░░░░░░░░░░░░░░░░░░░     1%
 ```
 
 🔥 **Mais forte em frontend** (Backend 0% / Frontend 0%)
 
 📦 **85 projetos públicos, 0 privados**
 
-🤖 **3681.6M tokens de IA consumidos**
+🤖 **3695.8M tokens de IA consumidos**
 
 ---
 
